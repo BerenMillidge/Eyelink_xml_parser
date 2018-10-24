@@ -3,7 +3,7 @@ A quick parser for the eyelink xml files containing word stimulus information.
 
 How to use:
 
-On the commandline type: "python eyelink_xml_parser.py "$path-to-directory-containing-xml-files$" "$name-of-results-file-you-   want$" "$csv-file-separator$"
+On the commandline type: "python eyelink_xml_parser.py "path-to-directory-containing-xml-files" "name-of-results-file-you-want" "csv-file-separator"
   
 The last two arguments are optional. By default the name of results file will be "Tokens", and the default csv separator is a tab.
 
